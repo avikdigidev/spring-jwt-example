@@ -1,1 +1,1 @@
-# spring-jwt-example
+# spring-jwt-poc
